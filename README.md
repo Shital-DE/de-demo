@@ -1,4 +1,4 @@
 # de-demo
 This is my first GIT repository.
 <br>
-Author - Shital Gayakwad.
+Author - Shital Gayakwad. (DE)
